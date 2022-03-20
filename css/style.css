@@ -1,0 +1,31 @@
+@charset "UTF-8"; 
+
+*{ margin:0; padding:0; }
+ul,ol,li{ list-style:none; }
+
+.swiper{
+    width:800px; 
+    height:500px;  
+    margin:100px auto; 
+    position:relative; 
+}
+.swiper-wrapper{
+    width:100%; height:100%; 
+}
+.swiper-slide{
+    width:100%; height:100%; 
+}
+
+.box1{
+    background: url(../img/iewek-gnos-0-oPmFrlubo-unsplash.jpg) no-repeat center/cover;
+}
+.box2{
+    background: url(../img/nattu-adnan-atSUvc1hMwk-unsplash.jpg) no-repeat center/cover; 
+}
+.box3{
+    background:url(../img/lyndon-li-zrT1tjnxJKQ-unsplash.jpg) no-repeat center/cover;
+}
+.box4{
+    background:url(../img/colby-thomas-r6TLRDY4Ll0-unsplash.jpg) no-repeat center/cover;  
+}
+
